@@ -26,4 +26,5 @@ provider "azurerm" {
  features {}          
 }
 
+#simple comment
 
